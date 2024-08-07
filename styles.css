@@ -28,16 +28,16 @@ table{
 }
 #field{
     border-radius: 10px;
-    width: 93%;
-    height: 100%;
-    padding: 0px;
+    width: 89%;
+    height: 70%;
+    padding: 10px;
     margin: 0px;
     border-width: 2px;
     border-style: solid;
     border: none;
     font-size: 20px;
-    text-align: center;
-    cursor: pointer;
+    text-align: left;
+    cursor: none;
 }
 #field:hover{
     background-color: hsl(0,0%,80%);
