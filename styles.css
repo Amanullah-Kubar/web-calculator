@@ -1,5 +1,5 @@
 body{
-    background-image:url(icons/1.jpg);
+    background-image:url(1.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -39,6 +39,14 @@ table{
     text-align: center;
     cursor: pointer;
 }
+#field:hover{
+    background-color: hsl(0,0%,80%);
+
+}
+#field:active{
+    border: none;
+}
+
 
 button{
     border: none;
