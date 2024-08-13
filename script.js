@@ -14,7 +14,7 @@ function calculate(){
         field.value='';
         apendToDisply(result);
     }catch(error){
-
+        field.value='';
         apendToDisply("Error: Invalid expression");
     }
 }
